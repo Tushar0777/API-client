@@ -52,7 +52,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Tushar0777/API-client.git
 cd postman-clone
 ````
 
